@@ -1,5 +1,5 @@
 require('dotenv').config();
-// todo: async errors
+require('express-async-errors');
 const express = require('express');
 
 const connectDB = require('./db/connect');
