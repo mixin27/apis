@@ -164,22 +164,22 @@
 
 #### Product Model
 
-- [ ] create Product.js in models folder
-- [ ] create Schema
-- [ ] name : {type:String}
-- [ ] price: {type:Number}
-- [ ] description: {type:String}
-- [ ] image: {type:String}
-- [ ] category: {type:String}
-- [ ] company: {type:String}
-- [ ] colors: {type:[ ]}
-- [ ] featured: {type:Boolean}
-- [ ] freeShipping: {type:Boolean}
-- [ ] inventory:{type:Number}
-- [ ] averageRating:{type:Number}
-- [ ] user
-- [ ] set timestamps
-- [ ] export Product model
+- [x] create Product.js in models folder
+- [x] create Schema
+- [x] name : {type:String}
+- [x] price: {type:Number}
+- [x] description: {type:String}
+- [x] image: {type:String}
+- [x] category: {type:String}
+- [x] company: {type:String}
+- [x] colors: {type:[ ]}
+- [x] featured: {type:Boolean}
+- [x] freeShipping: {type:Boolean}
+- [x] inventory:{type:Number}
+- [x] averageRating:{type:Number}
+- [x] user
+- [x] set timestamps
+- [x] export Product model
 
 #### Product Structure
 
